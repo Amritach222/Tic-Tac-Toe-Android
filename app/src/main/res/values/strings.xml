@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tictactoe">Welcome To Tic-Tac-Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="weight">1</string>
+    <string name="image">gameImages</string>
+    <string name="status">statusBar</string>
+    <string name="x_s_turn_tap_to_play">X\'s Turn Tap to play</string>
+</resources>
